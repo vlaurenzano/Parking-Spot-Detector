@@ -1,6 +1,15 @@
 # Parking-Spot-Detector
 Automatically Detect Parking Spots on your block!
 
+![parking spots](http://i.imgur.com/UaBE6bb.png)
+
+![parking spot](http://i.imgur.com/ibzEU4R.png)
+
+![parking spot](http://i.imgur.com/Hni185g.png)
+
+
+
+
 ## Step One: 
 Run main.py with the argument select to select your parking spaces:
 
