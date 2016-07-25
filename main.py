@@ -19,7 +19,7 @@ if args.module == 'select':
 elif args.module == 'classify':
     if not args.folder:
        exit('Need to supply a folder to classify')
-    gui.classify_folder(args.file_folder)
+    gui.classify_folder(args.folder)
 elif args.module == 'test':
    if not args.folder:
        exit('Need to supply a folder')
